@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="2.0" xmlns="http://www.lisa.org/tmx20">
+<header adminlang="en" creationtool="locale4j" creationtoolversion="1.1" o-tmf="unknown" segtype="block" srclang="*all*"/>
+<body>
+	<tu tuid="sologan">
+		<tuv xml:lang="en"><seg>Sologan</seg></tuv>
+		<tuv xml:lang="vi"><seg>Khẩu hiệu</seg></tuv>
+	</tu>
+	<tu tuid="admin">
+		<tuv xml:lang="en"><seg>Administrator</seg></tuv>
+		<tuv xml:lang="vi"><seg>Ban quản trị</seg></tuv>
+	</tu>
+	<tu tuid="member">
+		<tuv xml:lang="en"><seg>Members</seg></tuv>
+		<tuv xml:lang="vi"><seg>Thành viên</seg></tuv>
+	</tu>
+	<tu tuid="account">
+		<tuv xml:lang="en"><seg>Account</seg></tuv>
+		<tuv xml:lang="vi"><seg>Tài khoản đăng nhập</seg></tuv>
+	</tu>
+	<tu tuid="basic_info">
+		<tuv xml:lang="en"><seg>Basic infomation</seg></tuv>
+		<tuv xml:lang="vi"><seg>Thông tin cá nhân</seg></tuv>
+	</tu>
+	<tu tuid="avatar">
+		<tuv xml:lang="en"><seg>Avatar</seg></tuv>
+		<tuv xml:lang="vi"><seg>Hình đại diện</seg></tuv>
+	</tu>
+	<tu tuid="birthdate">
+		<tuv xml:lang="en"><seg>Birthdate</seg></tuv>
+		<tuv xml:lang="vi"><seg>Ngày sinh</seg></tuv>
+	</tu>
+	<tu tuid="gender">
+		<tuv xml:lang="en"><seg>Gender</seg></tuv>
+		<tuv xml:lang="vi"><seg>Giới tính</seg></tuv>
+	</tu>
+	<tu tuid="username">
+		<tuv xml:lang="en"><seg>UserName</seg></tuv>
+		<tuv xml:lang="vi"><seg>Nick đăng nhập</seg></tuv>
+	</tu>
+	<tu tuid="nickname">
+		<tuv xml:lang="en"><seg>Nickname</seg></tuv>
+		<tuv xml:lang="vi"><seg>Nick</seg></tuv>
+	</tu>
+	<tu tuid="fullname">
+		<tuv xml:lang="en"><seg>Full name</seg></tuv>
+		<tuv xml:lang="vi"><seg>Họ và Tên</seg></tuv>
+	</tu>
+	<tu tuid="male">
+		<tuv xml:lang="en"><seg>Male</seg></tuv>
+		<tuv xml:lang="vi"><seg>Nam</seg></tuv>
+	</tu>
+	<tu tuid="female">
+		<tuv xml:lang="en"><seg>Female</seg></tuv>
+		<tuv xml:lang="vi"><seg>Nữ</seg></tuv>
+	</tu>
+	<tu tuid="address">
+		<tuv xml:lang="en"><seg>Address</seg></tuv>
+		<tuv xml:lang="vi"><seg>Địa chỉ</seg></tuv>
+	</tu>
+	<tu tuid="phone">
+		<tuv xml:lang="en"><seg>Phone</seg></tuv>
+		<tuv xml:lang="vi"><seg>Điện thoại</seg></tuv>
+	</tu>
+	<tu tuid="mobile">
+		<tuv xml:lang="en"><seg>Mobile</seg></tuv>
+		<tuv xml:lang="vi"><seg>Di động</seg></tuv>
+	</tu>
+	<tu tuid="email">
+		<tuv xml:lang="en"><seg>Email</seg></tuv>
+		<tuv xml:lang="vi"><seg>Email</seg></tuv>
+	</tu>
+	<tu tuid="login_email">
+		<tuv xml:lang="en"><seg>Login email</seg></tuv>
+		<tuv xml:lang="vi"><seg>Email đăng nhập</seg></tuv>
+	</tu>
+	<tu tuid="nick_yahoo">
+		<tuv xml:lang="en"><seg>Nick yahoo</seg></tuv>
+		<tuv xml:lang="vi"><seg>Nick yahoo</seg></tuv>
+	</tu>	
+	<tu tuid="bank">
+		<tuv xml:lang="en"><seg>Bank</seg></tuv>
+		<tuv xml:lang="vi"><seg>Ngân hàng</seg></tuv>
+	</tu>
+	<tu tuid="bank_name">
+		<tuv xml:lang="en"><seg>Bank name</seg></tuv>
+		<tuv xml:lang="vi"><seg>Tên ngân hàng</seg></tuv>
+	</tu>
+	<tu tuid="bank_account">
+		<tuv xml:lang="en"><seg>Bank account name</seg></tuv>
+		<tuv xml:lang="vi"><seg>Tên tài khỏan</seg></tuv>
+	</tu>
+	<tu tuid="bank_number">
+		<tuv xml:lang="en"><seg>Bank account number</seg></tuv>
+		<tuv xml:lang="vi"><seg>Số tài khỏan</seg></tuv>
+	</tu>
+	<tu tuid="idcard">
+		<tuv xml:lang="en"><seg>Id card</seg></tuv>
+		<tuv xml:lang="vi"><seg>CMND</seg></tuv>
+	</tu>
+	<tu tuid="id_name">
+		<tuv xml:lang="en"><seg>Id name</seg></tuv>
+		<tuv xml:lang="vi"><seg>Tên CMND</seg></tuv>
+	</tu>
+	<tu tuid="id_no">
+		<tuv xml:lang="en"><seg>Id number</seg></tuv>
+		<tuv xml:lang="vi"><seg>Số CMND</seg></tuv>
+	</tu>
+	<tu tuid="id_image">
+		<tuv xml:lang="en"><seg>Id image</seg></tuv>
+		<tuv xml:lang="vi"><seg>Hình CMND</seg></tuv>
+	</tu>
+	<tu tuid="introduce">
+		<tuv xml:lang="en"><seg>Introduce</seg></tuv>
+		<tuv xml:lang="vi"><seg>Tự giới thiệu</seg></tuv>
+	</tu>
+	<tu tuid="content2">
+		<tuv xml:lang="en"><seg>Other Information</seg></tuv>
+		<tuv xml:lang="vi"><seg>Thông tin khác</seg></tuv>
+	</tu>
+
+	<tu tuid="msg_required_username">
+		<tuv xml:lang="en"><seg>Username is required.</seg></tuv>
+		<tuv xml:lang="vi"><seg>Vui lòng nhập username.</seg></tuv>
+	</tu>
+	<tu tuid="msg_invalid_username">
+		<tuv xml:lang="en"><seg>Username is invalid.</seg></tuv>
+		<tuv xml:lang="vi"><seg>Username bạn nhập không hợp lệ.</seg></tuv>
+	</tu>
+	<tu tuid="msg_required_email">
+		<tuv xml:lang="en"><seg>Email is required.</seg></tuv>
+		<tuv xml:lang="vi"><seg>Vui lòng nhập Email.</seg></tuv>
+	</tu>
+	<tu tuid="msg_invalid_email">
+		<tuv xml:lang="en"><seg>Email is invalid.</seg></tuv>
+		<tuv xml:lang="vi"><seg>Email bạn nhập không hợp lệ.</seg></tuv>
+	</tu>
+	<tu tuid="msg_required_password">
+		<tuv xml:lang="en"><seg>Password is required.</seg></tuv>
+		<tuv xml:lang="vi"><seg>Vui lòng nhập Password.</seg></tuv>
+	</tu>
+	<tu tuid="msg_required_oldpassword">
+		<tuv xml:lang="en"><seg>Please enter your old password.</seg></tuv>
+		<tuv xml:lang="vi"><seg>Vui lòng nhập mật khẩu cũ.</seg></tuv>
+	</tu>
+	<tu tuid="msg_required_newpassword">
+		<tuv xml:lang="en"><seg>New password is required.</seg></tuv>
+		<tuv xml:lang="vi"><seg>Vui lòng nhập mật khẩu mới.</seg></tuv>
+	</tu>
+	<tu tuid="msg_invalid_password">
+		<tuv xml:lang="en"><seg>Password is invalid.</seg></tuv>
+		<tuv xml:lang="vi"><seg>Mật khẩu không hợp lệ.</seg></tuv>
+	</tu>
+	<tu tuid="msg_invalid_confirmpassword">
+		<tuv xml:lang="en"><seg>Confirm new password is invalid.</seg></tuv>
+		<tuv xml:lang="vi"><seg>Xác nhận mật khẩu mới không hợp lệ.</seg></tuv>
+	</tu>
+	<tu tuid="msg_success_changepassword">
+		<tuv xml:lang="en"><seg>Password was changed successfully.</seg></tuv>
+		<tuv xml:lang="vi"><seg>Đã đổi mật khẩu thành công.</seg></tuv>
+	</tu>
+	<tu tuid="msg_duplicate_username">
+		<tuv xml:lang="en"><seg>This user name already exists.</seg></tuv>
+		<tuv xml:lang="vi"><seg>Username này đã tồn tại trong hệ thống.</seg></tuv>
+	</tu>
+	<tu tuid="msg_required_fullname">
+		<tuv xml:lang="en"><seg>Fullname is required.</seg></tuv>
+		<tuv xml:lang="vi"><seg>Vui lòng nhập họ và tên.</seg></tuv>
+	</tu>	
+	<tu tuid="msg_required_address">
+		<tuv xml:lang="en"><seg>Address is required.</seg></tuv>
+		<tuv xml:lang="vi"><seg>Vui lòng nhập địa chỉ.</seg></tuv>
+	</tu>	
+</body>
+</tmx>

@@ -1,0 +1,6 @@
+[27-Oct-2011 13:49:44] PHP Warning:  ini_set() has been disabled for security reasons in /home/donghoom/public_html/booking/libraries/joomla/session/session.php on line 102
+[27-Oct-2011 13:49:44] PHP Warning:  ini_set() has been disabled for security reasons in /home/donghoom/public_html/booking/libraries/joomla/session/session.php on line 105
+[27-Oct-2011 13:49:44] PHP Warning:  ini_set() has been disabled for security reasons in /home/donghoom/public_html/booking/libraries/joomla/session/session.php on line 655
+[27-Oct-2011 15:01:52] PHP Warning:  ini_set() has been disabled for security reasons in /home/donghoom/public_html/booking/libraries/joomla/session/session.php on line 102
+[27-Oct-2011 15:01:52] PHP Warning:  ini_set() has been disabled for security reasons in /home/donghoom/public_html/booking/libraries/joomla/session/session.php on line 105
+[27-Oct-2011 15:01:52] PHP Warning:  ini_set() has been disabled for security reasons in /home/donghoom/public_html/booking/libraries/joomla/session/session.php on line 655

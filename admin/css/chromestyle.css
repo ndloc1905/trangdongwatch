@@ -1,0 +1,67 @@
+/* ######### Style for Drop Down Menu ######### */
+.dropmenudiv {
+	position:absolute;
+	top: 0;
+	border: 1px solid #fff; /*THEME CHANGE HERE*/
+	border-bottom-width: 0;
+	font:normal 12px tahoma;
+	line-height:18px;
+	z-index:1000;
+	background-color: #3A414B;
+	width: 160px;
+	visibility: hidden;	
+}
+.dropmenudiv a {
+	width: auto;
+	display: block;
+	text-indent: 3px;
+	border-bottom: 1px solid #fff; /*THEME CHANGE HERE*/
+	padding: 2px;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 12px;
+	color: #fff;
+	text-transform:capitalize;
+}
+* html .dropmenudiv a{ /*IE only hack*/
+	width: 100%;
+}
+.dropmenudiv a:hover{ /*THEME CHANGE HERE*/
+	color:#fff111;
+	text-decoration:none;
+}
+#menuTop {
+	clear:both;
+	background:#3A414B;
+	height:30px;
+	width:100%;
+	margin-top:20px;
+	margin-bottom:0px;
+}
+#menuTop ul { 
+	float:left;
+	margin:0;
+	padding:0;
+	width:100%;
+	height:30px;	
+	padding-left:2px;
+}
+#menuTop ul li {
+	height:30px;
+	float:left;
+	display:block;
+	text-align:center;
+	padding:0px;
+	background: none;
+}
+#menuTop ul li a {
+	display:block;
+	padding:8px 10px 7px;
+	color:#fff;
+	font-weight:bold;
+	text-transform:capitalize;
+}
+#menuTop ul li a:hover, #menuTop li a.active {
+	text-decoration:none;
+	color:#FF0;
+}

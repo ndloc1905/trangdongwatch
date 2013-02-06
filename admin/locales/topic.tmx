@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="2.0" xmlns="http://www.lisa.org/tmx20">
+	<header adminlang="en" creationtool="locale4j" creationtoolversion="1.1" o-tmf="unknown" segtype="block" srclang="*all*"/>
+	<body>
+	<tu tuid="topic">
+		<tuv xml:lang="en"><seg>Topic</seg></tuv>
+		<tuv xml:lang="vi"><seg>Topic</seg></tuv>
+	</tu>
+	<tu tuid="comments">
+		<tuv xml:lang="en"><seg>Number of comments</seg></tuv>
+		<tuv xml:lang="vi"><seg>Số phản hồi</seg></tuv>
+	</tu>
+	<tu tuid="msg_required_category">
+		<tuv xml:lang="en"><seg>Forum is required.</seg></tuv>
+		<tuv xml:lang="vi"><seg>Vui lòng chọn forum.</seg></tuv>
+	</tu>		
+	</body>
+</tmx>

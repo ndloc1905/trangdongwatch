@@ -1,0 +1,991 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="2.0" xmlns="http://www.lisa.org/tmx20">
+	<header adminlang="en" creationtool="locale4j" creationtoolversion="1.1" o-tmf="unknown" segtype="block" srclang="*all*"/>
+	<body>
+	<tu tuid="all">
+		<tuv xml:lang="en"><seg>All</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Tất cả</seg></tuv>
+	</tu>
+	<tu tuid="termofuse">
+		<tuv xml:lang="en"><seg>Term of use</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Quy định sử dụng</seg></tuv>
+	</tu>
+	<tu tuid="save">
+		<tuv xml:lang="en"><seg>Save</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Lưu</seg></tuv>
+	</tu>
+	<tu tuid="action">
+		<tuv xml:lang="en"><seg>Action</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Hành động</seg></tuv>
+	</tu>
+	<tu tuid="doaction">
+		<tuv xml:lang="en"><seg>Do action</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Thực hiện</seg></tuv>
+	</tu>
+	<tu tuid="cancel">
+		<tuv xml:lang="en"><seg>Cancel</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Hủy</seg></tuv>
+	</tu>
+	<tu tuid="lock_nick">
+		<tuv xml:lang="en"><seg>Lock nick</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Khóa nick</seg></tuv>
+	</tu>
+	<tu tuid="unlock_nick">
+		<tuv xml:lang="en"><seg>Unlock nick</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Mở Nick</seg></tuv>
+	</tu>
+	<tu tuid="lock">
+		<tuv xml:lang="en"><seg>Lock</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Khóa</seg></tuv>
+	</tu>
+	<tu tuid="unlock">
+		<tuv xml:lang="en"><seg>Unlock</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Mở khóa</seg></tuv>
+	</tu>
+	<tu tuid="page">
+		<tuv xml:lang="en"><seg>Page</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Trang</seg></tuv>
+	</tu>
+	<tu tuid="column">
+		<tuv xml:lang="en"><seg>Position</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Vị trí</seg></tuv>
+	</tu>
+	<tu tuid="left">
+		<tuv xml:lang="en"><seg>Left</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Trái</seg></tuv>
+	</tu>
+	<tu tuid="right">
+		<tuv xml:lang="en"><seg>Right</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Phải</seg></tuv>
+	</tu>
+	<tu tuid="sort">
+		<tuv xml:lang="en"><seg>Sort</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Sắp xếp</seg></tuv>
+	</tu>
+	<tu tuid="latest">
+		<tuv xml:lang="en"><seg>Latest</seg></tuv>
+		<tuv xml:lang="jp"><seg>最新</seg></tuv>
+		<tuv xml:lang="th"><seg>Latest</seg></tuv>
+		<tuv xml:lang="vi"><seg>Mới nhất</seg></tuv>
+	</tu>
+	<tu tuid="style">
+		<tuv xml:lang="en"><seg>Style</seg></tuv>
+		<tuv xml:lang="jp"><seg>スタイル</seg></tuv>
+		<tuv xml:lang="th"><seg>Style</seg></tuv>
+		<tuv xml:lang="vi"><seg>Style</seg></tuv>
+	</tu>
+	<tu tuid="many_replies">
+		<tuv xml:lang="en"><seg>Many replies</seg></tuv>
+		<tuv xml:lang="jp"><seg>レスポンスの多いメッセージ</seg></tuv>
+		<tuv xml:lang="th"><seg>Many replies</seg></tuv>
+		<tuv xml:lang="vi"><seg>Nhiều trả lời nhất</seg></tuv>
+	</tu>
+	<tu tuid="permission">
+		<tuv xml:lang="en"><seg>Permission</seg></tuv>
+		<tuv xml:lang="jp"><seg>権限</seg></tuv>
+		<tuv xml:lang="th"><seg>Permission</seg></tuv>
+		<tuv xml:lang="vi"><seg>Quyền</seg></tuv>
+	</tu>
+	<tu tuid="function">
+		<tuv xml:lang="en"><seg>Function</seg></tuv>
+		<tuv xml:lang="jp"><seg>機能</seg></tuv>
+		<tuv xml:lang="th"><seg>Function</seg></tuv>
+		<tuv xml:lang="vi"><seg>Chức năng</seg></tuv>
+	</tu>
+	<tu tuid="name">
+		<tuv xml:lang="en"><seg>Name</seg></tuv>
+		<tuv xml:lang="jp"><seg>名前</seg></tuv>
+		<tuv xml:lang="th"><seg>Name</seg></tuv>
+		<tuv xml:lang="vi"><seg>Tên</seg></tuv>
+	</tu>
+	<tu tuid="size">
+		<tuv xml:lang="en"><seg>Size</seg></tuv>
+		<tuv xml:lang="jp"><seg>サイズ</seg></tuv>
+		<tuv xml:lang="th"><seg>Size</seg></tuv>
+		<tuv xml:lang="vi"><seg>Kích thước</seg></tuv>
+	</tu>
+	<tu tuid="adv_image">
+		<tuv xml:lang="en"><seg>Ad Image</seg></tuv>
+		<tuv xml:lang="jp"><seg>広告画像</seg></tuv>
+		<tuv xml:lang="th"><seg>Ad Image</seg></tuv>
+		<tuv xml:lang="vi"><seg>Hình ảnh quảng cáo</seg></tuv>
+	</tu>
+	<tu tuid="adv_flash">
+		<tuv xml:lang="en"><seg>Ad Flash</seg></tuv>
+		<tuv xml:lang="jp"><seg>広告フラッシュ</seg></tuv>
+		<tuv xml:lang="th"><seg>Ad Flash</seg></tuv>
+		<tuv xml:lang="vi"><seg>Flash quảng cáo</seg></tuv>
+	</tu>
+	<tu tuid="adv_text">
+		<tuv xml:lang="en"><seg>Ad Text</seg></tuv>
+		<tuv xml:lang="jp"><seg>広告のテキスト</seg></tuv>
+		<tuv xml:lang="th"><seg>Ad Text</seg></tuv>
+		<tuv xml:lang="vi"><seg>Text quảng cáo</seg></tuv>
+	</tu>
+	<tu tuid="type">
+		<tuv xml:lang="en"><seg>Type</seg></tuv>
+		<tuv xml:lang="jp"><seg>種類</seg></tuv>
+		<tuv xml:lang="th"><seg>Type</seg></tuv>
+		<tuv xml:lang="vi"><seg>Loại</seg></tuv>
+	</tu>
+	<tu tuid="desc">
+		<tuv xml:lang="en"><seg>Description</seg></tuv>
+		<tuv xml:lang="jp"><seg>概要</seg></tuv>
+		<tuv xml:lang="th"><seg>Description</seg></tuv>
+		<tuv xml:lang="vi"><seg>Mô tả</seg></tuv>
+	</tu>
+	<tu tuid="width">
+		<tuv xml:lang="en"><seg>Width</seg></tuv>
+		<tuv xml:lang="jp"><seg>幅</seg></tuv>
+		<tuv xml:lang="th"><seg>Width</seg></tuv>
+		<tuv xml:lang="vi"><seg>Rộng</seg></tuv>
+	</tu>
+	<tu tuid="height">
+		<tuv xml:lang="en"><seg>Height</seg></tuv>
+		<tuv xml:lang="jp"><seg>高さ</seg></tuv>
+		<tuv xml:lang="th"><seg>Height</seg></tuv>
+		<tuv xml:lang="vi"><seg>Cao</seg></tuv>
+	</tu>
+	<tu tuid="yes">
+		<tuv xml:lang="en"><seg>Yes</seg></tuv>
+		<tuv xml:lang="jp"><seg>はい</seg></tuv>
+		<tuv xml:lang="th"><seg>Yes</seg></tuv>
+		<tuv xml:lang="vi"><seg>Yes</seg></tuv>
+	</tu>
+	<tu tuid="no">
+		<tuv xml:lang="en"><seg>No</seg></tuv>
+		<tuv xml:lang="jp"><seg>いいえ</seg></tuv>
+		<tuv xml:lang="th"><seg>No</seg></tuv>
+		<tuv xml:lang="vi"><seg>No</seg></tuv>
+	</tu>
+	<tu tuid="account">
+		<tuv xml:lang="en"><seg>Account</seg></tuv>
+		<tuv xml:lang="jp"><seg>アカウント名</seg></tuv>
+		<tuv xml:lang="th"><seg>Account</seg></tuv>
+		<tuv xml:lang="vi"><seg>Tài khoản</seg></tuv>
+	</tu>
+	<tu tuid="total">
+		<tuv xml:lang="en"><seg>Total</seg></tuv>
+		<tuv xml:lang="jp"><seg>合計</seg></tuv>
+		<tuv xml:lang="th"><seg>Total</seg></tuv>
+		<tuv xml:lang="vi"><seg>Tổng cộng</seg></tuv>
+	</tu>
+	<tu tuid="seconds">
+		<tuv xml:lang="en"><seg>Seconds</seg></tuv>
+		<tuv xml:lang="jp"><seg>秒</seg></tuv>
+		<tuv xml:lang="th"><seg>Seconds</seg></tuv>
+		<tuv xml:lang="vi"><seg>Giây</seg></tuv>
+	</tu>
+	<tu tuid="back">
+		<tuv xml:lang="en"><seg>Back</seg></tuv>
+		<tuv xml:lang="jp"><seg>戻り</seg></tuv>
+		<tuv xml:lang="th"><seg>Back</seg></tuv>
+		<tuv xml:lang="vi"><seg>Trở về</seg></tuv>
+	</tu>
+	<tu tuid="left_time">
+		<tuv xml:lang="en"><seg>Left time</seg></tuv>
+		<tuv xml:lang="jp"><seg>残り時間</seg></tuv>
+		<tuv xml:lang="th"><seg>Left time</seg></tuv>
+		<tuv xml:lang="vi"><seg>Thời gian còn lại</seg></tuv>
+	</tu>
+	<tu tuid="left_most_time">
+		<tuv xml:lang="en"><seg>Left most time</seg></tuv>
+		<tuv xml:lang="jp"><seg>一番多い残りの時間</seg></tuv>
+		<tuv xml:lang="th"><seg>Left most time</seg></tuv>
+		<tuv xml:lang="vi"><seg>Thời gian còn lại nhiều nhất</seg></tuv>
+	</tu>	
+	<tu tuid="postdate">
+		<tuv xml:lang="en"><seg>Postdate</seg></tuv>
+		<tuv xml:lang="jp"><seg>送信時点</seg></tuv>
+		<tuv xml:lang="th"><seg>Postdate</seg></tuv>
+		<tuv xml:lang="vi"><seg>Gửi lúc</seg></tuv>
+	</tu>
+	<tu tuid="guest">
+		<tuv xml:lang="en"><seg>Guest</seg></tuv>
+		<tuv xml:lang="jp"><seg>顧客</seg></tuv>
+		<tuv xml:lang="th"><seg>Guest</seg></tuv>
+		<tuv xml:lang="vi"><seg>Khách</seg></tuv>
+	</tu>
+	<tu tuid="approval">
+		<tuv xml:lang="en"><seg>Approval</seg></tuv>
+		<tuv xml:lang="jp"><seg>承認</seg></tuv>
+		<tuv xml:lang="th"><seg>Approval</seg></tuv>
+		<tuv xml:lang="vi"><seg>Duyệt</seg></tuv>
+	</tu>
+	<tu tuid="pending">
+		<tuv xml:lang="en"><seg>Pending</seg></tuv>
+		<tuv xml:lang="jp"><seg>保留</seg></tuv>
+		<tuv xml:lang="th"><seg>Pending</seg></tuv>
+		<tuv xml:lang="vi"><seg>Chờ duyệt</seg></tuv>
+	</tu>
+	<tu tuid="send">
+		<tuv xml:lang="en"><seg>Send</seg></tuv>
+		<tuv xml:lang="jp"><seg>送信</seg></tuv>
+		<tuv xml:lang="th"><seg>Send</seg></tuv>
+		<tuv xml:lang="vi"><seg>Gửi</seg></tuv>
+	</tu>
+	<tu tuid="contact">
+		<tuv xml:lang="en"><seg>Contact</seg></tuv>
+		<tuv xml:lang="jp"><seg>連絡</seg></tuv>
+		<tuv xml:lang="th"><seg>Contact</seg></tuv>
+		<tuv xml:lang="vi"><seg>Liên hệ</seg></tuv>
+	</tu>
+	<tu tuid="avatar">
+		<tuv xml:lang="en"><seg>Avatar</seg></tuv>
+		<tuv xml:lang="jp"><seg>代表の画像</seg></tuv>
+		<tuv xml:lang="th"><seg>Avatar</seg></tuv>
+		<tuv xml:lang="vi"><seg>Hình đại diện</seg></tuv>
+	</tu>
+	<tu tuid="reset">
+		<tuv xml:lang="en"><seg>Reset</seg></tuv>
+		<tuv xml:lang="jp"><seg>リセット</seg></tuv>
+		<tuv xml:lang="th"><seg>Reset</seg></tuv>
+		<tuv xml:lang="vi"><seg>Nhập lại</seg></tuv>
+	</tu>
+	<tu tuid="keyword">
+		<tuv xml:lang="en"><seg>Keyword</seg></tuv>
+		<tuv xml:lang="jp"><seg>キーワード</seg></tuv>
+		<tuv xml:lang="th"><seg>Keyword</seg></tuv>
+		<tuv xml:lang="vi"><seg>Từ khóa</seg></tuv>
+	</tu>
+	<tu tuid="search">
+		<tuv xml:lang="en"><seg>Search</seg></tuv>
+		<tuv xml:lang="jp"><seg>検索</seg></tuv>
+		<tuv xml:lang="th"><seg>Search</seg></tuv>
+		<tuv xml:lang="vi"><seg>Tìm kiếm</seg></tuv>
+	</tu>
+	<tu tuid="update">
+		<tuv xml:lang="en"><seg>Update</seg></tuv>
+		<tuv xml:lang="jp"><seg>更新</seg></tuv>
+		<tuv xml:lang="th"><seg>Update</seg></tuv>
+		<tuv xml:lang="vi"><seg>Cập nhật</seg></tuv>
+	</tu>
+	<tu tuid="add">
+		<tuv xml:lang="en"><seg>Add</seg></tuv>
+		<tuv xml:lang="jp"><seg>追加</seg></tuv>
+		<tuv xml:lang="th"><seg>Add</seg></tuv>
+		<tuv xml:lang="vi"><seg>Thêm</seg></tuv>
+	</tu>
+	<tu tuid="delete">
+		<tuv xml:lang="en"><seg>Delete</seg></tuv>
+		<tuv xml:lang="jp"><seg>削除</seg></tuv>
+		<tuv xml:lang="th"><seg>Delete</seg></tuv>
+		<tuv xml:lang="vi"><seg>Xóa</seg></tuv>
+	</tu>
+	<tu tuid="confirmpassword">
+		<tuv xml:lang="en"><seg>Confirm password</seg></tuv>
+		<tuv xml:lang="jp"><seg>パスワードの確認</seg></tuv>
+		<tuv xml:lang="th"><seg>Confirm password</seg></tuv>
+		<tuv xml:lang="vi"><seg>Xác nhận mật khẩu</seg></tuv>
+	</tu>
+	<tu tuid="newpassword">
+		<tuv xml:lang="en"><seg>New password</seg></tuv>
+		<tuv xml:lang="jp"><seg>新しいパースワード</seg></tuv>
+		<tuv xml:lang="th"><seg>New password</seg></tuv>
+		<tuv xml:lang="vi"><seg>Mật khẩu mới</seg></tuv>
+	</tu>
+	<tu tuid="confirmnewpassword">
+		<tuv xml:lang="en"><seg>Confirm password</seg></tuv>
+		<tuv xml:lang="jp"><seg>パスワードの確認</seg></tuv>
+		<tuv xml:lang="th"><seg>Confirm password</seg></tuv>
+		<tuv xml:lang="vi"><seg>Xác nhận mật khẩu mới</seg></tuv>
+	</tu>
+	<tu tuid="changepassword">
+		<tuv xml:lang="en"><seg>Change password</seg></tuv>
+		<tuv xml:lang="jp"><seg>パスワード変更</seg></tuv>
+		<tuv xml:lang="th"><seg>Change password</seg></tuv>
+		<tuv xml:lang="vi"><seg>Đổi mật khẩu</seg></tuv>
+	</tu>
+	<tu tuid="password">
+		<tuv xml:lang="en"><seg>Password</seg></tuv>
+		<tuv xml:lang="jp"><seg>パスワード</seg></tuv>
+		<tuv xml:lang="th"><seg>Password</seg></tuv>
+		<tuv xml:lang="vi"><seg>Mật khẩu</seg></tuv>
+	</tu>
+	<tu tuid="change">
+		<tuv xml:lang="en"><seg>Change</seg></tuv>
+		<tuv xml:lang="jp"><seg>変更</seg></tuv>
+		<tuv xml:lang="th"><seg>Change</seg></tuv>
+		<tuv xml:lang="vi"><seg>Đổi</seg></tuv>
+	</tu>
+	<tu tuid="logout">
+		<tuv xml:lang="en"><seg>Logout</seg></tuv>
+		<tuv xml:lang="jp"><seg>ログアウト</seg></tuv>
+		<tuv xml:lang="th"><seg>Logout</seg></tuv>
+		<tuv xml:lang="vi"><seg>Thoát</seg></tuv>
+	</tu>
+	<tu tuid="addnew">
+		<tuv xml:lang="en"><seg>Add new</seg></tuv>
+		<tuv xml:lang="jp"><seg>追加</seg></tuv>
+		<tuv xml:lang="th"><seg>Add new</seg></tuv>
+		<tuv xml:lang="vi"><seg>Thêm mới</seg></tuv>
+	</tu>
+	<tu tuid="active">
+		<tuv xml:lang="en"><seg>Active</seg></tuv>
+		<tuv xml:lang="jp"><seg>表示</seg></tuv>
+		<tuv xml:lang="th"><seg>Active</seg></tuv>
+		<tuv xml:lang="vi"><seg>Hiện</seg></tuv>
+	</tu>
+	<tu tuid="inactive">
+		<tuv xml:lang="en"><seg>Inactive</seg></tuv>
+		<tuv xml:lang="jp"><seg>非表示</seg></tuv>
+		<tuv xml:lang="th"><seg>Inactive</seg></tuv>
+		<tuv xml:lang="vi"><seg>Ẩn</seg></tuv>
+	</tu>
+	<tu tuid="address">
+		<tuv xml:lang="en"><seg>Address</seg></tuv>
+		<tuv xml:lang="jp"><seg>住所</seg></tuv>
+		<tuv xml:lang="th"><seg>Address</seg></tuv>
+		<tuv xml:lang="vi"><seg>Địa chỉ</seg></tuv>
+	</tu>
+	<tu tuid="address_vi">
+		<tuv xml:lang="en"><seg>Vietnamese address</seg></tuv>
+		<tuv xml:lang="jp"><seg>ベトナム語の住所</seg></tuv>
+		<tuv xml:lang="th"><seg>Vietnamese address</seg></tuv>
+		<tuv xml:lang="vi"><seg>Địa chỉ Tiếng Việt</seg></tuv>
+	</tu>
+	<tu tuid="address_en">
+		<tuv xml:lang="en"><seg>English address</seg></tuv>
+		<tuv xml:lang="jp"><seg>英語の住所</seg></tuv>
+		<tuv xml:lang="th"><seg>English address</seg></tuv>
+		<tuv xml:lang="vi"><seg>Địa chỉ Tiếng Anh</seg></tuv>
+	</tu>
+	<tu tuid="address_jp">
+		<tuv xml:lang="en"><seg>Japanese address</seg></tuv>
+		<tuv xml:lang="jp"><seg>日本語の住所</seg></tuv>
+		<tuv xml:lang="th"><seg>Japanese address</seg></tuv>
+		<tuv xml:lang="vi"><seg>Địa chỉ Tiếng Nhật</seg></tuv>
+	</tu>
+	<tu tuid="address_th">
+		<tuv xml:lang="en"><seg>Thailand address</seg></tuv>
+		<tuv xml:lang="jp"><seg>タイ語の住所</seg></tuv>
+		<tuv xml:lang="th"><seg>Thailand address</seg></tuv>
+		<tuv xml:lang="vi"><seg>Địa chỉ Tiếng Thái</seg></tuv>
+	</tu>
+	<tu tuid="company">
+		<tuv xml:lang="en"><seg>Company</seg></tuv>
+		<tuv xml:lang="jp"><seg>会社</seg></tuv>
+		<tuv xml:lang="th"><seg>Company</seg></tuv>
+		<tuv xml:lang="vi"><seg>Công ty</seg></tuv>
+	</tu>
+	<tu tuid="company_address">
+		<tuv xml:lang="en"><seg>Company address</seg></tuv>
+		<tuv xml:lang="jp"><seg>会社の住所</seg></tuv>
+		<tuv xml:lang="th"><seg>Company address</seg></tuv>
+		<tuv xml:lang="vi"><seg>Địa chỉ công ty</seg></tuv>
+	</tu>
+	<tu tuid="company_phone">
+		<tuv xml:lang="en"><seg>Company Phone</seg></tuv>
+		<tuv xml:lang="jp"><seg>会社の電話番号</seg></tuv>
+		<tuv xml:lang="th"><seg>Company Phone</seg></tuv>
+		<tuv xml:lang="vi"><seg>Điện thoại công ty</seg></tuv>
+	</tu>
+	<tu tuid="company_name">
+		<tuv xml:lang="en"><seg>Company name</seg></tuv>
+		<tuv xml:lang="jp"><seg>会社名</seg></tuv>
+		<tuv xml:lang="th"><seg>Company name</seg></tuv>
+		<tuv xml:lang="vi"><seg>Tên công ty</seg></tuv>
+	</tu>
+	<tu tuid="bank_account">
+		<tuv xml:lang="en"><seg>Account number</seg></tuv>
+		<tuv xml:lang="jp"><seg>アカウント番号</seg></tuv>
+		<tuv xml:lang="th"><seg>Account number</seg></tuv>
+		<tuv xml:lang="vi"><seg>Số tài khoản</seg></tuv>
+	</tu>
+	<tu tuid="bank_account">
+		<tuv xml:lang="en"><seg>Account number</seg></tuv>
+		<tuv xml:lang="jp"><seg>Account number</seg></tuv>
+		<tuv xml:lang="th"><seg>Account number</seg></tuv>
+		<tuv xml:lang="vi"><seg>Số tài khoản</seg></tuv>
+	</tu>
+	<tu tuid="bank_name">
+		<tuv xml:lang="en"><seg>Bank name</seg></tuv>
+		<tuv xml:lang="jp"><seg>銀行名前</seg></tuv>
+		<tuv xml:lang="th"><seg>Bank name</seg></tuv>
+		<tuv xml:lang="vi"><seg>Tên ngân hàng</seg></tuv>
+	</tu>
+	<tu tuid="bank_contact">
+		<tuv xml:lang="en"><seg>Account name</seg></tuv>
+		<tuv xml:lang="jp"><seg>アカウント名</seg></tuv>
+		<tuv xml:lang="th"><seg>Account name</seg></tuv>
+		<tuv xml:lang="vi"><seg>Tên tài khoản</seg></tuv>
+	</tu>
+	<tu tuid="phone">
+		<tuv xml:lang="en"><seg>Phone</seg></tuv>
+		<tuv xml:lang="jp"><seg>電話</seg></tuv>
+		<tuv xml:lang="th"><seg>Phone</seg></tuv>
+		<tuv xml:lang="vi"><seg>Điện thoại</seg></tuv>
+	</tu>
+	<tu tuid="mobile">
+		<tuv xml:lang="en"><seg>Mobile</seg></tuv>
+		<tuv xml:lang="jp"><seg>携帯電話</seg></tuv>
+		<tuv xml:lang="th"><seg>Mobile</seg></tuv>
+		<tuv xml:lang="vi"><seg>Di động</seg></tuv>
+	</tu>
+	<tu tuid="status">
+		<tuv xml:lang="en"><seg>Status</seg></tuv>
+		<tuv xml:lang="jp"><seg>状態</seg></tuv>
+		<tuv xml:lang="th"><seg>Status</seg></tuv>
+		<tuv xml:lang="vi"><seg>Trạng thái</seg></tuv>
+	</tu>
+	<tu tuid="edit">
+		<tuv xml:lang="en"><seg>Edit</seg></tuv>
+		<tuv xml:lang="jp"><seg>編集</seg></tuv>
+		<tuv xml:lang="th"><seg>Edit</seg></tuv>
+		<tuv xml:lang="vi"><seg>Sửa</seg></tuv>
+	</tu>
+	<tu tuid="introduce">
+		<tuv xml:lang="en"><seg>Introduction</seg></tuv>
+		<tuv xml:lang="jp"><seg>紹介</seg></tuv>
+		<tuv xml:lang="th"><seg>Introduction</seg></tuv>
+		<tuv xml:lang="vi"><seg>Giới thiệu</seg></tuv>
+	</tu>
+	<tu tuid="photo">
+		<tuv xml:lang="en"><seg>Photo</seg></tuv>
+		<tuv xml:lang="jp"><seg>活動の画像</seg></tuv>
+		<tuv xml:lang="th"><seg>Photo</seg></tuv>
+		<tuv xml:lang="vi"><seg>Hình ảnh hoạt động</seg></tuv>
+	</tu>
+	
+	<tu tuid="all">
+		<tuv xml:lang="en"><seg>All</seg></tuv>
+		<tuv xml:lang="jp"><seg>全て</seg></tuv>
+		<tuv xml:lang="th"><seg>All</seg></tuv>
+		<tuv xml:lang="vi"><seg>Tất cả</seg></tuv>
+	</tu>
+	<tu tuid="price">
+		<tuv xml:lang="en"><seg>Price</seg></tuv>
+		<tuv xml:lang="jp"><seg>費用</seg></tuv>
+		<tuv xml:lang="th"><seg>Price</seg></tuv>
+		<tuv xml:lang="vi"><seg>Giá</seg></tuv>
+	</tu>
+	<tu tuid="show">
+		<tuv xml:lang="en"><seg>Show</seg></tuv>
+		<tuv xml:lang="jp"><seg>表示</seg></tuv>
+		<tuv xml:lang="th"><seg>Show</seg></tuv>
+		<tuv xml:lang="vi"><seg>Hiện</seg></tuv>
+	</tu>
+	<tu tuid="hide">
+		<tuv xml:lang="en"><seg>Hide</seg></tuv>
+		<tuv xml:lang="jp"><seg>非表示</seg></tuv>
+		<tuv xml:lang="th"><seg>Hide</seg></tuv>
+		<tuv xml:lang="vi"><seg>Ẩn</seg></tuv>
+	</tu>
+	<tu tuid="select">
+		<tuv xml:lang="en"><seg>Select</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Chọn</seg></tuv>
+	</tu>
+	<tu tuid="image">
+		<tuv xml:lang="en"><seg>Image</seg></tuv>
+		<tuv xml:lang="jp"><seg>画像</seg></tuv>
+		<tuv xml:lang="th"><seg>Image</seg></tuv>
+		<tuv xml:lang="vi"><seg>Hình</seg></tuv>
+	</tu>
+	<tu tuid="title">
+		<tuv xml:lang="en"><seg>Title</seg></tuv>
+		<tuv xml:lang="jp"><seg>タイトル</seg></tuv>
+		<tuv xml:lang="th"><seg>Title</seg></tuv>
+		<tuv xml:lang="vi"><seg>Tiêu đề</seg></tuv>
+	</tu>
+	<tu tuid="content">
+		<tuv xml:lang="en"><seg>Content</seg></tuv>
+		<tuv xml:lang="jp"><seg>コメント</seg></tuv>
+		<tuv xml:lang="th"><seg>Content</seg></tuv>
+		<tuv xml:lang="vi"><seg>Nội dung</seg></tuv>
+	</tu>
+	<tu tuid="new">
+		<tuv xml:lang="en"><seg>New</seg></tuv>
+		<tuv xml:lang="jp"><seg>新しい</seg></tuv>
+		<tuv xml:lang="th"><seg>New</seg></tuv>
+		<tuv xml:lang="vi"><seg>Mới</seg></tuv>
+	</tu>
+	<tu tuid="zorder">
+		<tuv xml:lang="en"><seg>Order</seg></tuv>
+		<tuv xml:lang="jp"><seg>表示順番</seg></tuv>
+		<tuv xml:lang="th"><seg>Order</seg></tuv>
+		<tuv xml:lang="vi"><seg>Thứ tự hiển thị</seg></tuv>
+	</tu>
+	<tu tuid="name_vi">
+		<tuv xml:lang="en"><seg>Vietnamese name</seg></tuv>
+		<tuv xml:lang="jp"><seg>ベトナム語の名前</seg></tuv>
+		<tuv xml:lang="th"><seg>Vietnamese name</seg></tuv>
+		<tuv xml:lang="vi"><seg>Tên tiếng Việt</seg></tuv>
+	</tu>
+	<tu tuid="name_en">
+		<tuv xml:lang="en"><seg>English name</seg></tuv>
+		<tuv xml:lang="jp"><seg>英語の名前</seg></tuv>
+		<tuv xml:lang="th"><seg>English name</seg></tuv>
+		<tuv xml:lang="vi"><seg>Tên tiếng Anh</seg></tuv>
+	</tu>
+	<tu tuid="name_jp">
+		<tuv xml:lang="en"><seg>Japanese name</seg></tuv>
+		<tuv xml:lang="jp"><seg>日本語の名前</seg></tuv>
+		<tuv xml:lang="th"><seg>Japanese name</seg></tuv>
+		<tuv xml:lang="vi"><seg>Tên tiếng Nhật</seg></tuv>
+	</tu>
+	<tu tuid="name_th">
+		<tuv xml:lang="en"><seg>Thai name</seg></tuv>
+		<tuv xml:lang="jp"><seg>タイ語の名前</seg></tuv>
+		<tuv xml:lang="th"><seg>Thai name</seg></tuv>
+		<tuv xml:lang="vi"><seg>Tên tiếng Thái</seg></tuv>
+	</tu>
+	<tu tuid="desc_vi">
+		<tuv xml:lang="en"><seg>Described in Vietnamese</seg></tuv>
+		<tuv xml:lang="jp"><seg>ベトナム語で記述します。</seg></tuv>
+		<tuv xml:lang="th"><seg>Described in Vietnamese</seg></tuv>
+		<tuv xml:lang="vi"><seg>Mô tả bằng tiếng Việt</seg></tuv>
+	</tu>
+	<tu tuid="desc_en">
+		<tuv xml:lang="en"><seg>Described in English</seg></tuv>
+		<tuv xml:lang="jp"><seg>英語で記述します。</seg></tuv>
+		<tuv xml:lang="th"><seg>Described in English</seg></tuv>
+		<tuv xml:lang="vi"><seg>Mô tả bằng tiếng Anh</seg></tuv>
+	</tu>
+	<tu tuid="vietnamese">
+		<tuv xml:lang="en"><seg>Vietnamese</seg></tuv>
+		<tuv xml:lang="jp"><seg>ベトナム語</seg></tuv>
+		<tuv xml:lang="th"><seg>Vietnamese</seg></tuv>
+		<tuv xml:lang="vi"><seg>Tiếng Việt</seg></tuv>
+	</tu>
+	<tu tuid="english">
+		<tuv xml:lang="en"><seg>English</seg></tuv>
+		<tuv xml:lang="jp"><seg>英語</seg></tuv>
+		<tuv xml:lang="th"><seg>English</seg></tuv>
+		<tuv xml:lang="vi"><seg>Tiếng Anh</seg></tuv>
+	</tu>
+	<tu tuid="japanese">
+		<tuv xml:lang="en"><seg>Japanese</seg></tuv>
+		<tuv xml:lang="jp"><seg>日本語</seg></tuv>
+		<tuv xml:lang="th"><seg>Japanese</seg></tuv>
+		<tuv xml:lang="vi"><seg>Tiếng Nhật</seg></tuv>
+	</tu>
+	<tu tuid="thai">
+		<tuv xml:lang="en"><seg>Thai</seg></tuv>
+		<tuv xml:lang="jp"><seg>タイ語</seg></tuv>
+		<tuv xml:lang="th"><seg>Thai</seg></tuv>
+		<tuv xml:lang="vi"><seg>Tiếng Thái</seg></tuv>
+	</tu>
+	<tu tuid="date">
+		<tuv xml:lang="en"><seg>Date</seg></tuv>
+		<tuv xml:lang="jp"><seg>日付</seg></tuv>
+		<tuv xml:lang="th"><seg>Date</seg></tuv>
+		<tuv xml:lang="vi"><seg>Ngày</seg></tuv>
+	</tu>
+	<tu tuid="time">
+		<tuv xml:lang="en"><seg>Time</seg></tuv>
+		<tuv xml:lang="jp"><seg>時間</seg></tuv>
+		<tuv xml:lang="th"><seg>Time</seg></tuv>
+		<tuv xml:lang="vi"><seg>Thời gian</seg></tuv>
+	</tu>
+	<tu tuid="view">
+		<tuv xml:lang="en"><seg>View</seg></tuv>
+		<tuv xml:lang="jp"><seg>閲覧</seg></tuv>
+		<tuv xml:lang="th"><seg>View</seg></tuv>
+		<tuv xml:lang="vi"><seg>Xem</seg></tuv>
+	</tu>
+	<tu tuid="homepage">
+		<tuv xml:lang="en"><seg>Homepage</seg></tuv>
+		<tuv xml:lang="jp"><seg>ホームページ</seg></tuv>
+		<tuv xml:lang="th"><seg>Homepage</seg></tuv>
+		<tuv xml:lang="vi"><seg>Trang chủ</seg></tuv>
+	</tu>
+	<tu tuid="message">
+		<tuv xml:lang="en"><seg>Message</seg></tuv>
+		<tuv xml:lang="jp"><seg>メッセージ</seg></tuv>
+		<tuv xml:lang="th"><seg>Message</seg></tuv>
+		<tuv xml:lang="vi"><seg>Message</seg></tuv>
+	</tu>
+	<tu tuid="violation_notice">
+		<tuv xml:lang="en"><seg>Violation notice</seg></tuv>
+		<tuv xml:lang="jp"><seg>違反報告</seg></tuv>
+		<tuv xml:lang="th"><seg>Violation notice</seg></tuv>
+		<tuv xml:lang="vi"><seg>Thông báo vi phạm</seg></tuv>
+	</tu>
+	<tu tuid="advertisement">
+		<tuv xml:lang="en"><seg>Advertisement</seg></tuv>
+		<tuv xml:lang="jp"><seg>広告</seg></tuv>
+		<tuv xml:lang="th"><seg>Advertisement</seg></tuv>
+		<tuv xml:lang="vi"><seg>Quảng cáo</seg></tuv>
+	</tu>
+	<tu tuid="adverting">
+		<tuv xml:lang="en"><seg>Advertise</seg></tuv>
+		<tuv xml:lang="jp"><seg>広告掲載</seg></tuv>
+		<tuv xml:lang="th"><seg>Advertise</seg></tuv>
+		<tuv xml:lang="vi"><seg>Đặt quảng cáo</seg></tuv>
+	</tu>
+	<tu tuid="aboutus">
+		<tuv xml:lang="en"><seg>About us</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Giới thiệu</seg></tuv>
+	</tu>
+	<tu tuid="config">
+		<tuv xml:lang="en"><seg>Config</seg></tuv>
+		<tuv xml:lang="jp"><seg>構成</seg></tuv>
+		<tuv xml:lang="th"><seg>Config</seg></tuv>
+		<tuv xml:lang="vi"><seg>Cấu hình</seg></tuv>
+	</tu>
+	<tu tuid="sologan">
+		<tuv xml:lang="en"><seg>Sologan</seg></tuv>
+		<tuv xml:lang="jp"><seg>スローガン</seg></tuv>
+		<tuv xml:lang="th"><seg>Sologan</seg></tuv>
+		<tuv xml:lang="vi"><seg>Sologan</seg></tuv>
+	</tu>
+	
+	<tu tuid="url">
+		<tuv xml:lang="en"><seg>URL</seg></tuv>
+		<tuv xml:lang="jp"><seg>URL</seg></tuv>
+		<tuv xml:lang="th"><seg>URL</seg></tuv>
+		<tuv xml:lang="vi"><seg>URL</seg></tuv>
+	</tu>
+	<tu tuid="violation_message">
+		<tuv xml:lang="en"><seg>Violation message</seg></tuv>
+		<tuv xml:lang="jp"><seg>問題のメッセージ</seg></tuv>
+		<tuv xml:lang="th"><seg>Violation message</seg></tuv>
+		<tuv xml:lang="vi"><seg>Message vi phạm</seg></tuv>
+	</tu>	
+	<tu tuid="ad_placement">
+		<tuv xml:lang="en"><seg>Advertising placement</seg></tuv>
+		<tuv xml:lang="jp"><seg>掲載箇所</seg></tuv>
+		<tuv xml:lang="th"><seg>Advertising placement</seg></tuv>
+		<tuv xml:lang="vi"><seg>Vị trí quảng cáo</seg></tuv>
+	</tu>
+	<tu tuid="ad_deadline">
+		<tuv xml:lang="en"><seg>Advertising Time limit</seg></tuv>
+		<tuv xml:lang="jp"><seg>期間</seg></tuv>
+		<tuv xml:lang="th"><seg>Advertising Time limit</seg></tuv>
+		<tuv xml:lang="vi"><seg>Thời hạn quảng cáo</seg></tuv>
+	</tu>
+	<tu tuid="place">
+		<tuv xml:lang="en"><seg>Place</seg></tuv>
+		<tuv xml:lang="jp"><seg>場所</seg></tuv>
+		<tuv xml:lang="th"><seg>Place</seg></tuv>
+		<tuv xml:lang="vi"><seg>Địa điểm</seg></tuv>
+	</tu>
+	<tu tuid="saleoff">
+		<tuv xml:lang="en"><seg>Saleoff</seg></tuv>
+		<tuv xml:lang="jp"><seg>セルオフ</seg></tuv>
+		<tuv xml:lang="th"><seg>Saleoff</seg></tuv>
+		<tuv xml:lang="vi"><seg>Saleoff</seg></tuv>
+	</tu>
+	<tu tuid="idea">
+		<tuv xml:lang="en"><seg>Idea</seg></tuv>
+		<tuv xml:lang="jp"><seg>ご意見</seg></tuv>
+		<tuv xml:lang="th"><seg>Idea</seg></tuv>
+		<tuv xml:lang="vi"><seg>Ý kiến</seg></tuv>
+	</tu>
+	<tu tuid="advertising">
+		<tuv xml:lang="en"><seg>Advertising cost</seg></tuv>
+		<tuv xml:lang="jp"><seg>現在の広告費用</seg></tuv>
+		<tuv xml:lang="th"><seg>Advertising cost</seg></tuv>
+		<tuv xml:lang="vi"><seg>Phí quảng cáo</seg></tuv>
+	</tu>
+	<tu tuid="room">
+		<tuv xml:lang="en"><seg>Room</seg></tuv>
+		<tuv xml:lang="jp"><seg>部屋</seg></tuv>
+		<tuv xml:lang="th"><seg>Room</seg></tuv>
+		<tuv xml:lang="vi"><seg>Phòng</seg></tuv>
+	</tu>
+	<tu tuid="expired">
+		<tuv xml:lang="en"><seg>Expired</seg></tuv>
+		<tuv xml:lang="jp"><seg>期限</seg></tuv>
+		<tuv xml:lang="th"><seg>Expired</seg></tuv>
+		<tuv xml:lang="vi"><seg>Hết thời gian</seg></tuv>
+	</tu>
+	<tu tuid="not_expired">
+		<tuv xml:lang="en"><seg>Not yet expired</seg></tuv>
+		<tuv xml:lang="jp"><seg>未期限</seg></tuv>
+		<tuv xml:lang="th"><seg>Not yet expired</seg></tuv>
+		<tuv xml:lang="vi"><seg>Chưa hết thời gian</seg></tuv>
+	</tu>
+	<tu tuid="reply">
+		<tuv xml:lang="en"><seg>Reply</seg></tuv>
+		<tuv xml:lang="jp"><seg>返事</seg></tuv>
+		<tuv xml:lang="th"><seg>Reply</seg></tuv>
+		<tuv xml:lang="vi"><seg>Trả lời</seg></tuv>
+	</tu>
+	<tu tuid="answers">
+		<tuv xml:lang="en"><seg>Answers</seg></tuv>
+		<tuv xml:lang="jp"><seg>返事数</seg></tuv>
+		<tuv xml:lang="th"><seg>Answers</seg></tuv>
+		<tuv xml:lang="vi"><seg>Số trả lời</seg></tuv>
+	</tu>
+	<tu tuid="both">
+		<tuv xml:lang="en"><seg>Both</seg></tuv>
+		<tuv xml:lang="jp"><seg>両方</seg></tuv>
+		<tuv xml:lang="th"><seg>Both</seg></tuv>
+		<tuv xml:lang="vi"><seg>Cả hai</seg></tuv>
+	</tu>
+	<tu tuid="topmsg">
+		<tuv xml:lang="en"><seg>Top messages have multiple responses</seg></tuv>
+		<tuv xml:lang="jp"><seg>レスポンスの多いメッセージトップ</seg></tuv>
+		<tuv xml:lang="th"><seg>Top messages have multiple responses</seg></tuv>
+		<tuv xml:lang="vi"><seg>Top messages nhiều trả lời nhất</seg></tuv>
+	</tu>
+	<tu tuid="other">
+		<tuv xml:lang="en"><seg>Other</seg></tuv>
+		<tuv xml:lang="jp"><seg>その他</seg></tuv>
+		<tuv xml:lang="th"><seg>Other</seg></tuv>
+		<tuv xml:lang="vi"><seg>Khác</seg></tuv>
+	</tu>
+	<tu tuid="detail">
+		<tuv xml:lang="en"><seg>Detail</seg></tuv>
+		<tuv xml:lang="jp"><seg>詳細</seg></tuv>
+		<tuv xml:lang="th"><seg>Detail</seg></tuv>
+		<tuv xml:lang="vi"><seg>Chi tiết</seg></tuv>
+	</tu>
+	<tu tuid="detail_comment">
+		<tuv xml:lang="en"><seg>Comments add or upgrade features</seg></tuv>
+		<tuv xml:lang="jp"><seg>レスポンスの多いメッセージ</seg></tuv>
+		<tuv xml:lang="th"><seg>Comments add or upgrade features</seg></tuv>
+		<tuv xml:lang="vi"><seg>Ý kiến thêm hoặc nâng cấp chức năng</seg></tuv>
+	</tu>
+	<tu tuid="detail_error">
+		<tuv xml:lang="en"><seg>Program error</seg></tuv>
+		<tuv xml:lang="jp"><seg>レスポンスの多いメッセージ</seg></tuv>
+		<tuv xml:lang="th"><seg>Program error</seg></tuv>
+		<tuv xml:lang="vi"><seg>Thông báo lỗi chương trình</seg></tuv>
+	</tu>
+	<tu tuid="detail_feature">
+		<tuv xml:lang="en"><seg>Manipulation feature / Design</seg></tuv>
+		<tuv xml:lang="jp"><seg>デザイン/操作性</seg></tuv>
+		<tuv xml:lang="th"><seg>Manipulation feature / Design</seg></tuv>
+		<tuv xml:lang="vi"><seg>Tính thao tác / Thiết kế</seg></tuv>
+	</tu>
+	<tu tuid="expire">
+		<tuv xml:lang="en"><seg>Expire</seg></tuv>
+		<tuv xml:lang="jp"><seg>期限</seg></tuv>
+		<tuv xml:lang="th"><seg>Expire</seg></tuv>
+		<tuv xml:lang="vi"><seg>Hết hạn</seg></tuv>
+	</tu>
+	<tu tuid="policy">
+		<tuv xml:lang="en"><seg>Policy</seg></tuv>
+		<tuv xml:lang="jp"><seg>ポリシー</seg></tuv>
+		<tuv xml:lang="th"><seg>Policy</seg></tuv>
+		<tuv xml:lang="vi"><seg>Chính sách</seg></tuv>
+	</tu>
+	<tu tuid="common_conf">
+		<tuv xml:lang="en"><seg>Common config</seg></tuv>
+		<tuv xml:lang="jp"><seg>共通構成</seg></tuv>
+		<tuv xml:lang="th"><seg>Common config</seg></tuv>
+		<tuv xml:lang="vi"><seg>Cấu hình chung</seg></tuv>
+	</tu>
+	<tu tuid="seo">
+		<tuv xml:lang="en"><seg>SEO</seg></tuv>
+		<tuv xml:lang="jp"><seg>SEO</seg></tuv>
+		<tuv xml:lang="th"><seg>SEO</seg></tuv>
+		<tuv xml:lang="vi"><seg>SEO</seg></tuv>
+	</tu>
+	<tu tuid="lastlogin">
+		<tuv xml:lang="en"><seg>Last login</seg></tuv>
+		<tuv xml:lang="jp"><seg>最終のログイン</seg></tuv>
+		<tuv xml:lang="th"><seg>Last login</seg></tuv>
+		<tuv xml:lang="vi"><seg>Đăng nhập lần cưối</seg></tuv>
+	</tu>
+	<tu tuid="login">
+		<tuv xml:lang="en"><seg>Login</seg></tuv>
+		<tuv xml:lang="jp"><seg>ログイン</seg></tuv>
+		<tuv xml:lang="th"><seg>Login</seg></tuv>
+		<tuv xml:lang="vi"><seg>Đăng nhập</seg></tuv>
+	</tu>
+	<tu tuid="month">
+		<tuv xml:lang="en"><seg>Month</seg></tuv>
+		<tuv xml:lang="jp"><seg>ヶ月</seg></tuv>
+		<tuv xml:lang="th"><seg>Month</seg></tuv>
+		<tuv xml:lang="vi"><seg>Tháng</seg></tuv>
+	</tu>
+	<tu tuid="note_required">
+		<tuv xml:lang="en"><seg>(*) Fields are required.</seg></tuv>
+		<tuv xml:lang="jp"><seg>(*)の項目は必須です。</seg></tuv>
+		<tuv xml:lang="th"><seg>(*) Fields are required.</seg></tuv>
+		<tuv xml:lang="vi"><seg>(*) Các trường được yêu cầu.</seg></tuv>
+	</tu>
+	<tu tuid="note">
+		<tuv xml:lang="en"><seg>Note</seg></tuv>
+		<tuv xml:lang="jp"><seg>注意してください</seg></tuv>
+		<tuv xml:lang="th"><seg>Note</seg></tuv>
+		<tuv xml:lang="vi"><seg>Lưu ý</seg></tuv>
+	</tu>
+	<tu tuid="ban_ip">
+		<tuv xml:lang="en"><seg>Ban IP</seg></tuv>
+		<tuv xml:lang="jp"><seg>Ban IP</seg></tuv>
+		<tuv xml:lang="th"><seg>Ban IP</seg></tuv>
+		<tuv xml:lang="vi"><seg>Cấm IP</seg></tuv>
+	</tu>
+	<tu tuid="ip">
+		<tuv xml:lang="en"><seg>IP</seg></tuv>
+		<tuv xml:lang="jp"><seg>IP</seg></tuv>
+		<tuv xml:lang="th"><seg>IP</seg></tuv>
+		<tuv xml:lang="vi"><seg>IP</seg></tuv>
+	</tu>
+	<tu tuid="last_access">
+		<tuv xml:lang="en"><seg>Last access</seg></tuv>
+		<tuv xml:lang="jp"><seg>Last access</seg></tuv>
+		<tuv xml:lang="th"><seg>Last access</seg></tuv>
+		<tuv xml:lang="vi"><seg>Last access</seg></tuv>
+	</tu>
+	<tu tuid="header_image">
+		<tuv xml:lang="en"><seg>Header image</seg></tuv>
+		<tuv xml:lang="jp"><seg>Header image</seg></tuv>
+		<tuv xml:lang="th"><seg>Header image</seg></tuv>
+		<tuv xml:lang="vi"><seg>Header image</seg></tuv>
+	</tu>
+	<tu tuid="header_text">
+		<tuv xml:lang="en"><seg>Header text</seg></tuv>
+		<tuv xml:lang="jp"><seg>Header text</seg></tuv>
+		<tuv xml:lang="th"><seg>Header text</seg></tuv>
+		<tuv xml:lang="vi"><seg>Header text</seg></tuv>
+	</tu>
+	<tu tuid="source">
+		<tuv xml:lang="en"><seg>Source</seg></tuv>
+		<tuv xml:lang="jp"><seg>Source</seg></tuv>
+		<tuv xml:lang="th"><seg>Source</seg></tuv>
+		<tuv xml:lang="vi"><seg>Source</seg></tuv>
+	</tu>
+	
+	<tu tuid="agent">
+		<tuv xml:lang="en"><seg>Agent</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Đại lý</seg></tuv>
+	</tu>
+	<tu tuid="color">
+		<tuv xml:lang="en"><seg>Color</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Màu</seg></tuv>
+	</tu>
+	<tu tuid="car">
+		<tuv xml:lang="en"><seg>Car</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Xe</seg></tuv>
+	</tu>
+	<tu tuid="code">
+		<tuv xml:lang="en"><seg>Code</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Mã số</seg></tuv>
+	</tu>
+	<tu tuid="emp_code">
+		<tuv xml:lang="en"><seg>Code</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Mã số NV</seg></tuv>
+	</tu>
+	<tu tuid="car_code">
+		<tuv xml:lang="en"><seg>Code</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Số xe</seg></tuv>
+	</tu>
+	<tu tuid="seats">
+		<tuv xml:lang="en"><seg>Seats</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Số chổ</seg></tuv>
+	</tu>
+	
+	<tu tuid="employer">
+		<tuv xml:lang="en"><seg>Employer</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Nhân viên</seg></tuv>
+	</tu>
+	
+	<tu tuid="maintenance">
+		<tuv xml:lang="en"><seg>Maintenance</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Bảo dưởng xe</seg></tuv>
+	</tu>
+	<tu tuid="garage">
+		<tuv xml:lang="en"><seg>Garage</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Garage</seg></tuv>
+	</tu>
+	<tu tuid="maintenance_cost">
+		<tuv xml:lang="en"><seg>Maintenance cost</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Chi phí bảo dưỡng</seg></tuv>
+	</tu>
+	<tu tuid="order_number">
+		<tuv xml:lang="en"><seg>Order number</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Số HĐ</seg></tuv>
+	</tu>
+	<tu tuid="car_type">
+		<tuv xml:lang="en"><seg>Car type</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Hiệu xe</seg></tuv>
+	</tu>
+	<tu tuid="car_delivery">
+		<tuv xml:lang="en"><seg>Car delivery</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Giao nhận xe</seg></tuv>
+	</tu>
+	<tu tuid="car_status">
+		<tuv xml:lang="en"><seg>Car status</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Tình trạng xe</seg></tuv>
+	</tu>
+	<tu tuid="cars">
+		<tuv xml:lang="en"><seg>Cars</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Danh mục Xe</seg></tuv>
+	</tu>
+	<tu tuid="ddate">
+		<tuv xml:lang="en"><seg>Delivery date</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Ngày giao xe</seg></tuv>
+	</tu>
+	<tu tuid="rdate">
+		<tuv xml:lang="en"><seg>Receive date</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Ngày trả xe</seg></tuv>
+	</tu>
+	<tu tuid="tstatus">
+		<tuv xml:lang="en"><seg>Technolory status</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Tình trạng kỹ thuật</seg></tuv>
+	</tu>
+	<tu tuid="consignment">
+		<tuv xml:lang="en"><seg>Consignment</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Ký gởi</seg></tuv>
+	</tu>
+	<tu tuid="addcost">
+		<tuv xml:lang="en"><seg>Add cost</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Chi phí phát sinh</seg></tuv>
+	</tu>
+	<tu tuid="money_total">
+		<tuv xml:lang="en"><seg>Money total</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Tổng tiền</seg></tuv>
+	</tu>
+	<tu tuid="car_rental">
+		<tuv xml:lang="en"><seg>Car rental</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Thuê xe</seg></tuv>
+	</tu>
+	<tu tuid="revenue_statistics">
+		<tuv xml:lang="en"><seg>Revenue statistics</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Thống kê doanh thu</seg></tuv>
+	</tu>
+	<tu tuid="statistics">
+		<tuv xml:lang="en"><seg>Statistics</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Thống kê</seg></tuv>
+	</tu>
+	<tu tuid="online_support">
+		<tuv xml:lang="en"><seg>Online support</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Hổ trợ Online</seg></tuv>
+	</tu>
+	<tu tuid="map">
+		<tuv xml:lang="en"><seg>Map</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Bản đồ đường đi</seg></tuv>
+	</tu>
+	<tu tuid="car_rental_process">
+		<tuv xml:lang="en"><seg>Car rental process</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Quy trình thuê xe</seg></tuv>
+	</tu>
+	<tu tuid="price1">
+		<tuv xml:lang="en"><seg>Price (12h)</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Giá (CA 12h)</seg></tuv>
+	</tu>	
+	<tu tuid="price2">
+		<tuv xml:lang="en"><seg>Price (24H)</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Giá (NGÀY 24H)</seg></tuv>
+	</tu>
+	<tu tuid="price3">
+		<tuv xml:lang="en"><seg>Price (SAT, SUN)</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Giá (T7+CN)</seg></tuv>
+	</tu>
+	<tu tuid="price4">
+		<tuv xml:lang="en"><seg>Price (HOLIDAY)</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Giá (NGÀY LỂ)</seg></tuv>
+	</tu>
+	<tu tuid="price5">
+		<tuv xml:lang="en"><seg>Price (MONTH)</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Giá (THÁNG)</seg></tuv>
+	</tu>
+	<tu tuid="common_info">
+		<tuv xml:lang="en"><seg></seg></tuv>		
+		<tuv xml:lang="vi"><seg>Thông tin chung</seg></tuv>
+	</tu>
+	<tu tuid="oilprice">
+		<tuv xml:lang="en"><seg></seg></tuv>		
+		<tuv xml:lang="vi"><seg>Giá xăng</seg></tuv>
+	</tu>
+	<tu tuid="car_value">
+		<tuv xml:lang="en"><seg></seg></tuv>		
+		<tuv xml:lang="vi"><seg>Giá trị xe</seg></tuv>
+	</tu>
+	</body>
+</tmx>

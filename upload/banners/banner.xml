@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<flash_parameters copyright="socusoftFSMTheme">
+    <preferences>
+        <global>
+            <basic_property movieWidth="728" movieHeight="90" startAutoPlay="true" backgroundColor="0xfffbf0" continuum="true" html_title="Title" loadStyle="Bar" socusoftMenu="false" hideAdobeMenu="false" photoDynamicShow="false" enableURL="true" transitionArray=""/>
+            <title_property photoTitle="false" photoTitleX="5" photoTitleY="25" photoTitleSize="20" photoTitleFont="Verdana" photoTitleColor="0xffffff"/>
+            <music_property path="" stream="true" loop="true"/>
+            <photo_property topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0"/>
+        </global>
+    </preferences>
+    <album>
+		<slide jpegURL="" d_URL="2941303045508.gif" transition="29" panzoom="1" URLTarget="0" phototime="5" url="http://timemnsg.com" title="" width="728" height="90"/>		                            </album>
+</flash_parameters>

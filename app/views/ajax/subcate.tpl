@@ -1,0 +1,1 @@
+{if $smarty.get.pparentid}{select_cate item0='Nhóm' parentid=$smarty.get.pparentid}{/if}

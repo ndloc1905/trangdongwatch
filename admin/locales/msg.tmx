@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="2.0" xmlns="http://www.lisa.org/tmx20">
+	<header adminlang="en" creationtool="locale4j" creationtoolversion="1.1" o-tmf="unknown" segtype="block" srclang="*all*"/>
+	<body>
+	<tu tuid="msg_duplicate_email">
+		<tuv xml:lang="en"><seg>Email has registered.</seg></tuv>	
+		<tuv xml:lang="vi"><seg>Email đã được đăng ký.</seg></tuv>
+	</tu>
+	<tu tuid="msg_unregistered_email">
+		<tuv xml:lang="en"><seg>Email unregistered.</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Email chưa được đăng ký.</seg></tuv>
+	</tu>
+	<tu tuid="msg_required_bannerpage">
+		<tuv xml:lang="en"><seg>Page to set banner is required.</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Vui lòng chọn trang đặt banner.</seg></tuv>		
+	</tu>
+	<tu tuid="msg_required_name">
+		<tuv xml:lang="en"><seg>Name is required.</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Vui lòng nhập tên.</seg></tuv>		
+	</tu>
+	<tu tuid="msg_required_zorder">
+		<tuv xml:lang="en"><seg>Sorter is required.</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Vui lòng nhập thứ tự hiển thị.</seg></tuv>		
+	</tu>
+	<tu tuid="msg_required_address">
+		<tuv xml:lang="en"><seg>Address is required.</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Vui lòng nhập địa chỉ.</seg></tuv>		
+	</tu>
+	<tu tuid="msg_invalid_login">
+		<tuv xml:lang="en"><seg>Login is invalid.</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Đăng nhập không hợp lệ.</seg></tuv>		
+	</tu>
+ 			
+	<tu tuid="msg_required_companyname">
+		<tuv xml:lang="en"><seg>Company name is required.</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Vui lòng nhập tên công ty.</seg></tuv>		
+	</tu>
+	<tu tuid="msg_required_companyaddress">
+		<tuv xml:lang="en"><seg>Company address is required.</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Vui lòng nhập địa chỉ công ty.</seg></tuv>		
+	</tu>
+	<tu tuid="msg_required_companyphone">
+		<tuv xml:lang="en"><seg>Company phone is required.</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Vui lòng nhập điện thoại công ty.</seg></tuv>		
+	</tu>
+	<tu tuid="msg_required_image">
+		<tuv xml:lang="en"><seg>Image is required.</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Vui lòng chọn hình.</seg></tuv>		
+	</tu>
+	<tu tuid="msg_required_banner">
+		<tuv xml:lang="en"><seg>Banner is required.</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Vui lòng chọn banner.</seg></tuv>		
+	</tu>	
+	<tu tuid="msg_required_title">
+		<tuv xml:lang="en"><seg>Title is required.</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Vui lòng nhập tiều đề.</seg></tuv>		
+	</tu>
+	<tu tuid="msg_required_content">
+		<tuv xml:lang="en"><seg>Content is required.</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Vui lòng nhập nội dung.</seg></tuv>		
+	</tu>	
+	<tu tuid="msg_success_action">
+		<tuv xml:lang="en"><seg>Execute successfully.</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Hành động đã thực hiện thành công.</seg></tuv>		
+	</tu>
+	<tu tuid="msg_confirm_action">
+		<tuv xml:lang="en"><seg>Are you sure you want to execute this action?</seg></tuv>
+		<tuv xml:lang="vi"><seg>Bạn chắc chắn muốn thực hiện hành động này không?</seg></tuv>
+	</tu>	
+	<tu tuid="msg_required_room">
+		<tuv xml:lang="en"><seg>Room is required.</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Vui lòng chọn phòng.</seg></tuv>
+	</tu>
+	<tu tuid="msg_required_code">
+		<tuv xml:lang="en"><seg>Code is required.</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Vui lòng nhập mã số.</seg></tuv>
+	</tu>
+	<tu tuid="msg_required_empcode">
+		<tuv xml:lang="en"><seg>Employer code is required.</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Vui lòng nhập mã số NV.</seg></tuv>
+	</tu>
+	<tu tuid="msg_invalid_empcode">
+		<tuv xml:lang="en"><seg>Employer code is invalid.</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Mã số NV không tồn tại trong hệ thống.</seg></tuv>
+	</tu>
+	<tu tuid="msg_required_carcode">
+		<tuv xml:lang="en"><seg>Car code is required.</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Vui lòng nhập số xe.</seg></tuv>
+	</tu>
+	<tu tuid="msg_invalid_carcode">
+		<tuv xml:lang="en"><seg>Car code is invalid.</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Số xe không tồn tại trong hệ thống.</seg></tuv>
+	</tu>
+	<tu tuid="msg_required_titleofmember">
+		<tuv xml:lang="en"><seg></seg></tuv>		
+		<tuv xml:lang="vi"><seg>Vui lòng chọn danh hiệu.</seg></tuv>
+	</tu>
+	<tu tuid="msg_required_ordernumber">
+		<tuv xml:lang="en"><seg>Order number is required.</seg></tuv>		
+		<tuv xml:lang="vi"><seg>Vui lòng nhập số HĐ.</seg></tuv>
+	</tu>
+	</body>
+</tmx>

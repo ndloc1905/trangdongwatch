@@ -1,0 +1,160 @@
+@charset "utf-8";
+
+/******************************** SET UP *********************************/
+
+
+h1, h2, h3, h4 { font-family:Tahoma, Geneva, sans-serif}
+h4 { font-size:11px}
+li { list-style:none}
+
+.fl { float:left}
+.fr { float:right}
+.clr { clear:both}
+
+table { border-collapse:collapse}
+
+/********************************* A **************************************/
+a { text-decoration:none}
+a:hover { text-decoration:underline}
+:focus { outline-color:-moz-use-text-color; outline-style:none; outline-width:0}
+a.under { text-decoration:underline}
+a.under:hover { text-decoration:none}
+a.nounder { text-decoration:none}
+a.nounder:hover { text-decoration:none}
+
+/********************************* LINE ************************************/
+hr { clear:both; width:99.8%; color:#fff; border-top:1px solid #d5d5d5; border-left:0}
+hr.color { clear:both; width:99.8%; color:#fff; border-top:1px solid #aa0000; border-left:0}
+
+/********************************* FROM - INPUT - SELECT - TEXTAREA ***********************/
+/********************************* DISPLAY *********************************/
+.disBlock { display:block}
+.disInline { display:inline}
+.disNone { display:none}
+.lineHeight { line-height:18px}
+.letterSpacing { letter-spacing:1px}
+.overFlowX { overflow-x:hidden; overflow-y:scroll;}
+.overFlowY { overflow-y:hidden; overflow-x:scroll;}
+.overFlowH { overflow:hidden;}
+
+/********************************* IMG *************************************/
+img { border:0}
+img.imgLeft { float:left; margin:0 8px 8px 0}
+img.imgRight { float:right; margin:0 0 8px 8px}
+img.imgClr { clear:both}
+img.borImg { border:1px solid #e5e5e5; padding:1px}
+
+/********************************* TEXT ***********************************/
+.fontType { font-family:"lucida grande",tahoma,verdana,arial,sans-serif; text-transform:none}
+.note { font-style:italic}
+.underline { text-decoration:underline}
+.bold { font-weight:bold}
+.smallcap { text-transform:uppercase;}
+.capitalize { text-transform:capitalize}
+.normal { font:normal 11px tahoma,verdana,arial,sans-serif }
+.large { font-size:14px}
+.xlarge { font-size:16px}
+.xxlarge { font-size:18px}
+.smallText { font-size:10px}
+.xsmallText { font-size:9px}
+.xxsmallText { font-size:8px}
+.textindent { font-size:0; line-height:0; text-indent: -999px; border:none}
+
+.wordwrap {
+	white-space: pre-wrap; /* css-3 */
+	white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
+	white-space: -pre-wrap; /* Opera 4-6 */
+	white-space: -o-pre-wrap; /* Opera 7 */
+	word-wrap: break-word; /* Internet Explorer 5.5+ */
+}
+
+/********************************* ALIGN **********************************/
+.alignR { text-align:right}
+.alignL { text-align:left}
+.alignC { text-align:center}
+.alignJ { text-align:justify}
+
+/********************************* COLOR **********************************/
+.white { color:#fff}
+.black { color:#000}
+.red { color:#c71406}
+.red2 { color:#BB2020}
+.green { color:green}
+.green2 { color:#65c706}
+.blue { color:#3149d1}
+.organ { color:#ff9614}
+.violet { color:#472268 } 
+.gray1 { color:#333}
+.gray2 { color:#666}
+.gray3 { color:#999}
+.gray4 { color:#CCC}
+
+/********************************* BORDER *********************************/
+
+.boderRadius {
+	 -moz-border-radius: 5px; 
+	 -webkit-border-radius: 5px;	
+}
+
+
+/********************************* PADDING - MARGIN ***********************/
+.space { clear:both; padding:5px 0 0 0}
+
+.padT2 { padding-top:3px; padding-bottom:2px }
+.padT5 { padding-top:5px; padding-bottom:5px }
+.padT10 { padding-top:10px; padding-bottom:10px }
+.padT15 { padding-top:15px; padding-bottom:15px }
+.padT20 { padding-top:20px; padding-bottom:20px }
+.padT25 { padding-top:25px; padding-bottom:25px }
+.padT50 { padding-top:50px; padding-bottom:50px }
+
+.padC2 { padding-left:3px; padding-right:2px }
+.padC5 { padding-left:5px; padding-right:5px }
+.padC10 { padding-left:10px; padding-right:10px }
+.padC15 { padding-left:15px; padding-right:15px }
+.padC20 { padding-left:20px; padding-right:20px }
+.padC25 { padding-left:25px; padding-right:25px }
+.padC50 { padding-left:50px; padding-right:50px }
+
+.padT5B { padding:5px; border:1px solid #eee;}
+
+.marT2 { margin-top:2px; margin-bottom:2px }
+.marT5 { margin-top:5px; margin-bottom:5px }
+.marT10 { margin-top:10px; margin-bottom:10px }
+.marT20 { margin-top:20px; margin-bottom:20px }
+
+.marC2 { margin-left:2px; margin-right:2px }
+.marC5 { margin-left:5px; margin-right:5px }
+.marC10 { margin-left:10px; margin-right:10px }
+.marC20 { margin-left:20px; margin-right:20px }
+
+
+.marL2 { margin-left:2px}
+.marL5 { margin-left:5px}
+.marL10 { margin-left:10px}
+.marL20 { margin-left:20px}
+.marL50 { margin-left:50px}
+
+.marR2 { margin-right:2px}
+.marR5 { margin-right:5px}
+.marR10 { margin-right:10px}
+.marR20 { margin-right:20px}
+.marR50 { margin-right:50px}
+
+/********************************* WIDTH - HEIGHT ***********************/
+.w10 { width:10px}
+.w20 { width:20px}
+.w50 { width:50px}
+.w100 { width:100px}
+.w120 { width:120px}
+.w150 { width:150px}
+.w200 { width:200px}
+.w220 { width:220px}
+.w250 { width:250px}
+
+.w500 { width:500px}
+.w520 { width:520px}
+.w550 { width:520px}
+.w1000 { width:1000px}
+
+.listEmpty { padding:20px; border:1px solid #eee; color:#999; text-align:center;}
